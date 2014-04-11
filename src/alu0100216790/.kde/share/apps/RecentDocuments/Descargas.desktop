@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=Descargas
+Type=Link
+URL[$e]=file://$HOME/Descargas
+X-KDE-LastOpenedWith=dolphin

@@ -1,0 +1,11 @@
+140411 11:47:28 [Note] Plugin 'FEDERATED' is disabled.
+140411 11:47:28 InnoDB: The InnoDB memory heap is disabled
+140411 11:47:28 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140411 11:47:28 InnoDB: Compressed tables use zlib 1.2.3.4
+140411 11:47:28 InnoDB: Initializing buffer pool, size = 8.0M
+140411 11:47:28 InnoDB: Completed initialization of buffer pool
+140411 11:47:28 InnoDB: highest supported file format is Barracuda.
+140411 11:47:29  InnoDB: Waiting for the background threads to start
+140411 11:47:30 InnoDB: 5.5.35 started; log sequence number 1715272
+140411 11:47:30 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.35-0ubuntu0.12.04.2'  socket: '/home/matematicas/alu0100216790/.local/share/akonadi/socket-B38/mysql.socket'  port: 0  (Ubuntu)

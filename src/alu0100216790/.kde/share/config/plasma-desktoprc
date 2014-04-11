@@ -1,0 +1,15 @@
+[PlasmaViews][1]
+panelVisibility=0
+
+[PlasmaViews][1][Sizes]
+lastsize=1440
+
+[Runners][bookmarks]
+dbfile=/home/matematicas/alu0100216790/.mozilla/firefox/alfxh7p8.default/places.sqlite
+
+[Updates]
+performed=/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/02-kubuntu-menu-icon.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-kubuntu-10.04.js,/usr/share/kde4/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js,/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js
+
+[ViewIds]
+1=2
+2=1

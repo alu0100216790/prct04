@@ -1,0 +1,11 @@
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Favorite Profiles]
+Favorites=/usr/share/kde4/apps/konsole/Shell.profile
+
+[MainWindow]
+Height 900=623
+State=AAAA/wAAAAD9AAAAAAAAAkMAAAJaAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1440=579

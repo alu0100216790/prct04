@@ -1,0 +1,16 @@
+[Devices][/org/freedesktop/UDisks/devices/sda1]
+Icon=drive-harddisk
+LastNameSeen=Reservado para el sistema
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks/devices/sda2]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Disco duro de 49,7 GiB
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks/devices/sda3]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Disco duro de 95,6 GiB
+LastSeenMounted=true

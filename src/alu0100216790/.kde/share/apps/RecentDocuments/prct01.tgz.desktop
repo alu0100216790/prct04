@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-compressed-tar
+Name=prct01.tgz
+Type=Link
+URL[$e]=file://$HOME/TE/prct01.tgz
+X-KDE-LastOpenedWith=ark

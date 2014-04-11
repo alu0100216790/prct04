@@ -1,0 +1,162 @@
+140130 11:10:53 [Note] Plugin 'FEDERATED' is disabled.
+140130 11:10:53 InnoDB: The InnoDB memory heap is disabled
+140130 11:10:53 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140130 11:10:53 InnoDB: Compressed tables use zlib 1.2.3.4
+140130 11:10:53 InnoDB: Initializing buffer pool, size = 8.0M
+140130 11:10:53 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file ./ibdata1 did not exist:
+InnoDB: a new database to be created!
+140130 11:10:53  InnoDB: Setting file ./ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+140130 11:10:55  InnoDB: Log file ./ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile0 size to 2 MB
+InnoDB: Database physically writes the file full: wait...
+140130 11:10:55  InnoDB: Log file ./ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile1 size to 2 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+140130 11:10:57  InnoDB: Waiting for the background threads to start
+140130 11:10:58 InnoDB: 5.5.32 started; log sequence number 0
+140130 11:10:59 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.32-0ubuntu0.12.04.1'  socket: '/home/matematicas/alu0100216790/.local/share/akonadi/socket-turing23/mysql.socket'  port: 0  (Ubuntu)
+140130 12:02:04 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140130 12:02:04  InnoDB: Starting shutdown...
+140130 12:02:05  InnoDB: Shutdown completed; log sequence number 1715072
+140130 12:02:05 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140206 11:12:11 [Note] Plugin 'FEDERATED' is disabled.
+140206 11:12:11 InnoDB: The InnoDB memory heap is disabled
+140206 11:12:11 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140206 11:12:11 InnoDB: Compressed tables use zlib 1.2.3.4
+140206 11:12:12 InnoDB: Initializing buffer pool, size = 8.0M
+140206 11:12:12 InnoDB: Completed initialization of buffer pool
+140206 11:12:12 InnoDB: highest supported file format is Barracuda.
+140206 11:12:13  InnoDB: Waiting for the background threads to start
+140206 11:12:14 InnoDB: 5.5.35 started; log sequence number 1715072
+140206 11:12:15 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.35-0ubuntu0.12.04.2'  socket: '/home/matematicas/alu0100216790/.local/share/akonadi/socket-turing23/mysql.socket'  port: 0  (Ubuntu)
+140206 13:08:32 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140206 13:08:32  InnoDB: Starting shutdown...
+140206 13:08:33  InnoDB: Shutdown completed; log sequence number 1715092
+140206 13:08:33 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140211 20:54:32 [Note] Plugin 'FEDERATED' is disabled.
+140211 20:54:32 InnoDB: The InnoDB memory heap is disabled
+140211 20:54:32 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140211 20:54:32 InnoDB: Compressed tables use zlib 1.2.3.4
+140211 20:54:32 InnoDB: Initializing buffer pool, size = 8.0M
+140211 20:54:32 InnoDB: Completed initialization of buffer pool
+140211 20:54:32 InnoDB: highest supported file format is Barracuda.
+140211 20:54:33  InnoDB: Waiting for the background threads to start
+140211 20:54:34 InnoDB: 5.5.35 started; log sequence number 1715092
+140211 20:54:35 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.35-0ubuntu0.12.04.2'  socket: '/home/matematicas/alu0100216790/.local/share/akonadi/socket-A04/mysql.socket'  port: 0  (Ubuntu)
+140211 21:39:01 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140211 21:39:01  InnoDB: Starting shutdown...
+140211 21:39:02  InnoDB: Shutdown completed; log sequence number 1715102
+140211 21:39:02 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140403 11:19:39 [Note] Plugin 'FEDERATED' is disabled.
+140403 11:19:39 InnoDB: The InnoDB memory heap is disabled
+140403 11:19:39 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140403 11:19:39 InnoDB: Compressed tables use zlib 1.2.3.4
+140403 11:19:40 InnoDB: Initializing buffer pool, size = 8.0M
+140403 11:19:40 InnoDB: Completed initialization of buffer pool
+140403 11:19:40 InnoDB: highest supported file format is Barracuda.
+140403 11:19:41  InnoDB: Waiting for the background threads to start
+140403 11:19:42 InnoDB: 5.5.35 started; log sequence number 1715102
+140403 11:19:43 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.35-0ubuntu0.12.04.2'  socket: '/home/matematicas/alu0100216790/.local/share/akonadi/socket-EquipoAuxiliar1/mysql.socket'  port: 0  (Ubuntu)
+140403 13:08:51 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140403 13:08:51  InnoDB: Starting shutdown...
+140403 13:08:53  InnoDB: Shutdown completed; log sequence number 1715122
+140403 13:08:53 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140404 11:20:07 [Note] Plugin 'FEDERATED' is disabled.
+140404 11:20:07 InnoDB: The InnoDB memory heap is disabled
+140404 11:20:07 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140404 11:20:07 InnoDB: Compressed tables use zlib 1.2.3.4
+140404 11:20:07 InnoDB: Initializing buffer pool, size = 8.0M
+140404 11:20:07 InnoDB: Completed initialization of buffer pool
+140404 11:20:07  InnoDB: Log file ./ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile0 size to 2 MB
+InnoDB: Database physically writes the file full: wait...
+140404 11:20:08  InnoDB: Log file ./ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile1 size to 2 MB
+InnoDB: Database physically writes the file full: wait...
+140404 11:20:08 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+140404 11:20:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+140404 11:20:10  InnoDB: Waiting for the background threads to start
+140404 11:20:11 InnoDB: 5.5.35 started; log sequence number 1715212
+140404 11:20:11 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.35-0ubuntu0.12.04.2'  socket: '/home/matematicas/alu0100216790/.local/share/akonadi/socket-A18/mysql.socket'  port: 0  (Ubuntu)
+140404 13:19:43 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140404 13:19:43  InnoDB: Starting shutdown...
+140404 13:19:44  InnoDB: Shutdown completed; log sequence number 1715222
+140404 13:19:44 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140407 17:45:02 [Note] Plugin 'FEDERATED' is disabled.
+140407 17:45:02 InnoDB: The InnoDB memory heap is disabled
+140407 17:45:02 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140407 17:45:02 InnoDB: Compressed tables use zlib 1.2.3.4
+140407 17:45:02 InnoDB: Initializing buffer pool, size = 8.0M
+140407 17:45:02 InnoDB: Completed initialization of buffer pool
+140407 17:45:02 InnoDB: highest supported file format is Barracuda.
+140407 17:45:03 InnoDB: 5.5.35 started; log sequence number 1715222
+140407 17:45:04 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.35-0ubuntu0.12.04.2'  socket: '/home/matematicas/alu0100216790/.local/share/akonadi/socket-B06/mysql.socket'  port: 0  (Ubuntu)
+140407 18:15:41 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140407 18:15:41  InnoDB: Starting shutdown...
+140407 18:15:42  InnoDB: Shutdown completed; log sequence number 1715232
+140407 18:15:42 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140409 11:25:47 [Note] Plugin 'FEDERATED' is disabled.
+140409 11:25:47 InnoDB: The InnoDB memory heap is disabled
+140409 11:25:47 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140409 11:25:47 InnoDB: Compressed tables use zlib 1.2.3.4
+140409 11:25:47 InnoDB: Initializing buffer pool, size = 8.0M
+140409 11:25:47 InnoDB: Completed initialization of buffer pool
+140409 11:25:48 InnoDB: highest supported file format is Barracuda.
+140409 11:25:48  InnoDB: Waiting for the background threads to start
+140409 11:25:49 InnoDB: 5.5.35 started; log sequence number 1715232
+140409 11:25:50 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.35-0ubuntu0.12.04.2'  socket: '/home/matematicas/alu0100216790/.local/share/akonadi/socket-B33/mysql.socket'  port: 0  (Ubuntu)
+140409 13:49:09 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140409 13:49:09  InnoDB: Starting shutdown...
+140409 13:49:10  InnoDB: Shutdown completed; log sequence number 1715252
+140409 13:49:10 [Note] /usr/sbin/mysqld: Shutdown complete
+
+140410 11:16:37 [Note] Plugin 'FEDERATED' is disabled.
+140410 11:16:38 InnoDB: The InnoDB memory heap is disabled
+140410 11:16:38 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+140410 11:16:38 InnoDB: Compressed tables use zlib 1.2.3.4
+140410 11:16:38 InnoDB: Initializing buffer pool, size = 8.0M
+140410 11:16:38 InnoDB: Completed initialization of buffer pool
+140410 11:16:39 InnoDB: highest supported file format is Barracuda.
+140410 11:16:48  InnoDB: Waiting for the background threads to start
+140410 11:16:49 InnoDB: 5.5.35 started; log sequence number 1715252
+140410 11:16:51 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.35-0ubuntu0.12.04.2'  socket: '/home/matematicas/alu0100216790/.local/share/akonadi/socket-turing16/mysql.socket'  port: 0  (Ubuntu)
+140410 12:53:33 [Note] /usr/sbin/mysqld: Normal shutdown
+
+140410 12:53:33  InnoDB: Starting shutdown...
+140410 12:53:34  InnoDB: Shutdown completed; log sequence number 1715272
+140410 12:53:34 [Note] /usr/sbin/mysqld: Shutdown complete
+

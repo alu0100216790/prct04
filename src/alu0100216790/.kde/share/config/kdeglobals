@@ -1,0 +1,19 @@
+[$Version]
+update_info=kwin.upd:kde3.2Xinerama,kded.upd:kde3.0,mouse_cursor_theme.upd:kde3.4.99,kaccel.upd:kde3.3/r1
+
+[DirSelect Dialog]
+DirSelectDialog Size=837,577
+History Items[$e]=
+
+[DirWatch]
+NFSPollInterval=
+PollInterval=
+
+[Locale]
+Country=es
+
+[Windows]
+XineramaEnabled=
+XineramaMaximizeEnabled=
+XineramaMovementEnabled=
+XineramaPlacementEnabled=

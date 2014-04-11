@@ -1,0 +1,11 @@
+[MixerPulseAudio::Dispositivos_de_captura:1]
+name=
+
+[MixerPulseAudio::Dispositivos_de_reproducción:1]
+name=
+
+[MixerPulseAudio::Flujos_de_captura:1]
+name=
+
+[MixerPulseAudio::Flujos_de_reproducción:1]
+name=

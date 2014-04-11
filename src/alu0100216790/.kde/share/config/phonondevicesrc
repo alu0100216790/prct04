@@ -1,0 +1,472 @@
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D0c:capture]
+cardName=HDA Intel (AD198x Analog)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-13
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D0p:playback]
+cardName=HDA Intel (AD198x Analog)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-1
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D1p:playback]
+cardName=HDA Intel (AD198x Digital)
+deleted=false
+deviceNumber=1
+hotpluggable=false
+iconName=audio-card
+index=-2
+initialPreference=35
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D2c:capture]
+cardName=HDA Intel (ALC662 rev1 Analog) #2
+deleted=true
+deviceNumber=2
+hotpluggable=false
+iconName=audio-card
+index=-14
+initialPreference=34
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:80/0000:80:01.0/sound/card0/pcmC0D0c:capture]
+cardName=HDA VIA VT82xx (AD198x Analog)
+deleted=true
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-43
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:80/0000:80:01.0/sound/card0/pcmC0D0p:playback]
+cardName=HDA VIA VT82xx (AD198x Analog)
+deleted=true
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-33
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:80/0000:80:01.0/sound/card0/pcmC0D1p:playback]
+cardName=HDA VIA VT82xx (AD198x Digital)
+deleted=true
+deviceNumber=1
+hotpluggable=false
+iconName=audio-card
+index=-34
+initialPreference=35
+isAdvanced=true
+
+[AudioDevice_HDA Intel, AD198x Analog\nDefault Audio Device_capture]
+cardName=HDA Intel, AD198x Analog (Default Audio Device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-29
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Analog\nDefault Audio Device_playback]
+cardName=HDA Intel, AD198x Analog (Default Audio Device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-24
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Analog\nDirect hardware device without any conversions_capture]
+cardName=HDA Intel, AD198x Analog (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-30
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Analog\nDirect hardware device without any conversions_playback]
+cardName=HDA Intel, AD198x Analog (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-23
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Analog\nDirect sample mixing device_playback]
+cardName=HDA Intel, AD198x Analog (Direct sample mixing device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-22
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Analog\nDirect sample snooping device_capture]
+cardName=HDA Intel, AD198x Analog (Direct sample snooping device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-32
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Analog\nHardware device with all software conversions_capture]
+cardName=HDA Intel, AD198x Analog (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-31
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Analog\nHardware device with all software conversions_playback]
+cardName=HDA Intel, AD198x Analog (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-28
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Digital\nDirect hardware device without any conversions_playback]
+cardName=HDA Intel, AD198x Digital (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-27
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Digital\nDirect sample mixing device_playback]
+cardName=HDA Intel, AD198x Digital (Direct sample mixing device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-26
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Digital\nHardware device with all software conversions_playback]
+cardName=HDA Intel, AD198x Digital (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-25
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, AD198x Digital\nIEC958 (S/PDIF) Digital Audio Output_playback]
+cardName=HDA Intel, AD198x Digital (IEC958 (S/PDIF) Digital Audio Output)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-21
+initialPreference=30
+isAdvanced=true
+
+[AudioDevice_HDA Intel, ALC662 rev1 Analog\nDefault Audio Device_capture]
+cardName=HDA Intel, ALC662 rev1 Analog (Default Audio Device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-18
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Analog\nDefault Audio Device_playback]
+cardName=HDA Intel, ALC662 rev1 Analog (Default Audio Device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-3
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Analog\nDirect hardware device without any conversions_capture]
+cardName=HDA Intel, ALC662 rev1 Analog (Direct hardware device without any conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-16
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Analog\nDirect hardware device without any conversions_playback]
+cardName=HDA Intel, ALC662 rev1 Analog (Direct hardware device without any conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-12
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Analog\nDirect sample mixing device_playback]
+cardName=HDA Intel, ALC662 rev1 Analog (Direct sample mixing device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-7
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Analog\nDirect sample snooping device_capture]
+cardName=HDA Intel, ALC662 rev1 Analog (Direct sample snooping device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-20
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Analog\nHardware device with all software conversions_capture]
+cardName=HDA Intel, ALC662 rev1 Analog (Hardware device with all software conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-15
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Analog\nHardware device with all software conversions_playback]
+cardName=HDA Intel, ALC662 rev1 Analog (Hardware device with all software conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-5
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Digital\nDirect hardware device without any conversions_playback]
+cardName=HDA Intel, ALC662 rev1 Digital (Direct hardware device without any conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-9
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Digital\nDirect sample mixing device_playback]
+cardName=HDA Intel, ALC662 rev1 Digital (Direct sample mixing device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-10
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Digital\nHardware device with all software conversions_playback]
+cardName=HDA Intel, ALC662 rev1 Digital (Hardware device with all software conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-11
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel, ALC662 rev1 Digital\nIEC958 (S/PDIF) Digital Audio Output_playback]
+cardName=HDA Intel, ALC662 rev1 Digital (IEC958 (S/PDIF) Digital Audio Output)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-6
+initialPreference=30
+isAdvanced=true
+
+[AudioDevice_HDA VIA VT82xx, AD198x Analog\nDefault Audio Device_capture]
+cardName=HDA VIA VT82xx, AD198x Analog (Default Audio Device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-44
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Analog\nDefault Audio Device_playback]
+cardName=HDA VIA VT82xx, AD198x Analog (Default Audio Device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-36
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Analog\nDirect hardware device without any conversions_capture]
+cardName=HDA VIA VT82xx, AD198x Analog (Direct hardware device without any conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-46
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Analog\nDirect hardware device without any conversions_playback]
+cardName=HDA VIA VT82xx, AD198x Analog (Direct hardware device without any conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-38
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Analog\nDirect sample mixing device_playback]
+cardName=HDA VIA VT82xx, AD198x Analog (Direct sample mixing device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-42
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Analog\nDirect sample snooping device_capture]
+cardName=HDA VIA VT82xx, AD198x Analog (Direct sample snooping device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-45
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Analog\nHardware device with all software conversions_capture]
+cardName=HDA VIA VT82xx, AD198x Analog (Hardware device with all software conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-47
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Analog\nHardware device with all software conversions_playback]
+cardName=HDA VIA VT82xx, AD198x Analog (Hardware device with all software conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-39
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Digital\nDirect hardware device without any conversions_playback]
+cardName=HDA VIA VT82xx, AD198x Digital (Direct hardware device without any conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-35
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Digital\nDirect sample mixing device_playback]
+cardName=HDA VIA VT82xx, AD198x Digital (Direct sample mixing device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-37
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Digital\nHardware device with all software conversions_playback]
+cardName=HDA VIA VT82xx, AD198x Digital (Hardware device with all software conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-41
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA VIA VT82xx, AD198x Digital\nIEC958 (S/PDIF) Digital Audio Output_playback]
+cardName=HDA VIA VT82xx, AD198x Digital (IEC958 (S/PDIF) Digital Audio Output)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-40
+initialPreference=30
+isAdvanced=true
+
+[AudioDevice_Playback/recording through the PulseAudio sound server_capture]
+cardName=Playback/recording through the PulseAudio sound server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-17
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Playback/recording through the PulseAudio sound server_playback]
+cardName=Playback/recording through the PulseAudio sound server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-4
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_PulseAudio Sound Server_capture]
+cardName=PulseAudio Sound Server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-19
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_PulseAudio Sound Server_playback]
+cardName=PulseAudio Sound Server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-8
+initialPreference=30
+isAdvanced=false
+
+[Globals]
+nextIndex=48

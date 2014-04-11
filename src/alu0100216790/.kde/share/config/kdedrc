@@ -1,0 +1,5 @@
+[$Version]
+update_info=kded.upd:kde3.0
+
+[Notification Messages]
+phonon_forget_devices_always=true

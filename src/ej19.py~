@@ -1,0 +1,8 @@
+#!/usr/bin/python
+#!encoding: UTF-8
+# Que hace el siguiente programa? ¿Es correcto? ¿Que esta mal?
+
+a = int(raw_input("Valor de a: "))
+b = int(raw_input("Valor de b: "))
+x= -b/a
+print "Solucion: ", x
